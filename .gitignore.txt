@@ -1,0 +1,13 @@
+# Archivos ejecutables y librerías
+*.exe
+*.dll
+*.so
+*.dylib
+*.out
+
+# Carpetas de compilación (dependiendo de tu IDE)
+bin/
+obj/
+.vscode/
+.vs/
+build/
